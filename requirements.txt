@@ -1,0 +1,10 @@
+pip~=23.3.2
+Pillow~=10.1.0
+docutils~=0.16
+filelock~=3.13.1
+setuptools~=69.0.3
+packaging~=23.2
+Cython~=3.0.8
+future~=0.18.3
+platformdirs~=4.1.0
+translate~=3.6.1
