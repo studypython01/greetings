@@ -1,4 +1,5 @@
 greetings = ["hello",
              'hi',
              'hey',
-             'good morning zapatito']
+             'good morning zapatito',
+             'it costed but it worked']
